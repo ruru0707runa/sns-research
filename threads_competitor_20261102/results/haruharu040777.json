@@ -1,0 +1,99 @@
+{
+ "username": "haruharu040777",
+ "user_id": "17841463050605927",
+ "profile_url": "https://www.threads.com/@haruharu040777",
+ "name": "橋本真実",
+ "bio": "Hello🤳柴犬ハル&保護犬すずです\n福岡に住んでいます🐕🐐",
+ "follower_count_profile": 20545,
+ "follower_count_post": 20924,
+ "following_count": 30,
+ "post_count_total": 314,
+ "sample_size": 4,
+ "sample_newest": "2026-10-16 07:55:35",
+ "sample_oldest": "2026-09-12 21:04:08",
+ "posts_last_24h": 0,
+ "posts_last_7d_in_sample": 0,
+ "per_day_recent": {
+  "2026-10-16": 1,
+  "2026-10-13": 1,
+  "2026-09-23": 1,
+  "2026-09-12": 1
+ },
+ "avg_likes_newest10": 249.0,
+ "avg_likes_oldest10_in_sample": 249.0,
+ "max_likes_in_sample": 702,
+ "posts_over_100_likes_in_sample": 3,
+ "top3": [
+  {
+   "date": "2026-10-13 02:42:38",
+   "dt": "2026-10-13T02:42:38",
+   "likes": 702,
+   "first_line": "くそっ！ダイソーめ！",
+   "caption_head": "くそっ！ダイソーめ！\n柴犬グッズ出せば柴犬の飼い主は\n喜んで買うと思ってるんだろう！\n200円でも飼い主なら買うだろうと\n思ってるんだろう。。大正解だよ！\nありがとうダイソー。大事に使う！可愛い！",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@haruharu040777/post/DebgzSgGZnL"
+  },
+  {
+   "date": "2026-09-23 21:46:46",
+   "dt": "2026-09-23T21:46:46",
+   "likes": 127,
+   "first_line": "カリカリにササミと納豆を",
+   "caption_head": "カリカリにササミと納豆を\nトッピングします🐐🐕",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@haruharu040777/post/DdqD1qxmZP7"
+  },
+  {
+   "date": "2026-09-12 21:04:08",
+   "dt": "2026-09-12T21:04:08",
+   "likes": 102,
+   "first_line": "NNNに選ばれたのでしょうか🐈",
+   "caption_head": "NNNに選ばれたのでしょうか🐈\n\nうちには犬が2匹いるため難しく、\n里親を探さないとです🐈\n\n検査やワクチンなどはこちらで行ってから\n優しい里親様を探したいと思っています🐈",
+   "media_type": "CAROUSEL",
+   "has_media": true,
+   "url": "https://www.threads.com/@haruharu040777/post/DdNqN04GQ2k"
+  }
+ ],
+ "first_returned_post": {
+  "date": "2026-10-16 07:55:35",
+  "dt": "2026-10-16T07:55:35",
+  "likes": 65,
+  "first_line": "寝る前にサプリメント",
+  "caption_head": "寝る前にサプリメント\n摂取しました。おやすみなさい💤",
+  "media_type": "IMAGE",
+  "has_media": true,
+  "url": "https://www.threads.com/@haruharu040777/post/Dejy_9vGa4x"
+ },
+ "replies_sample_size": 8,
+ "replies_sample": [
+  {
+   "date": "2026-10-28 22:12:03",
+   "to": "ikuy4_10",
+   "text_head": "「は」と入力して最初に出てきた言葉で\nゴジラと戦う"
+  },
+  {
+   "date": "2026-10-29 07:38:08",
+   "to": "haruharu040777",
+   "text_head": "博多華丸\n福岡をたのむ！"
+  },
+  {
+   "date": "2026-10-16 17:56:06",
+   "to": "c0c0o0o",
+   "text_head": "この術後服を一番ステキに着こなせるのは\n\nうちの子だとおもう"
+  },
+  {
+   "date": "2026-10-16 21:41:36",
+   "to": "haruharu040777",
+   "text_head": "ナイトプール行かない？👙🍹"
+  },
+  {
+   "date": "2026-10-13 03:27:01",
+   "to": "muzikomuzio",
+   "text_head": "明日絶対に行く▓▓▓"
+  }
+ ],
+ "replies_error": null,
+ "has_next_page_threads": true,
+ "next_cursor": "AQHTJpN7B0ISLGD8bxJKbl5-khRVxEgiAHzYV0j88njo3EARwN1SH1tfF_IOiRwR_NhmSeZGvMQFpABKYwDyO7mo5A"
+}

@@ -1,0 +1,98 @@
+{
+ "username": "ruru_koinu",
+ "user_id": "17841480552980909",
+ "profile_url": "https://www.threads.com/@ruru_koinu",
+ "name": "子犬のルル",
+ "bio": "マルプー1歳のルルだよ🐶\nごはん選びのポイント⌇噛みグセ・吠えグセのなおし方⌇使って良かった便利グッズ紹介⌇愛犬を健康に育てたい飼い主さんは↓",
+ "follower_count_profile": 8045,
+ "follower_count_post": 8095,
+ "following_count": 1,
+ "post_count_total": 750,
+ "sample_size": 10,
+ "sample_newest": "2026-11-02 02:30:15",
+ "sample_oldest": "2026-10-17 00:18:23",
+ "posts_last_24h": 4,
+ "posts_last_7d_in_sample": 8,
+ "per_day_recent": {
+  "2026-11-02": 4,
+  "2026-10-31": 4,
+  "2026-10-17": 2
+ },
+ "avg_likes_newest10": 18.0,
+ "avg_likes_oldest10_in_sample": 18.0,
+ "max_likes_in_sample": 90,
+ "posts_over_100_likes_in_sample": 0,
+ "top3": [
+  {
+   "date": "2026-10-31 02:30:07",
+   "dt": "2026-10-31T02:30:07",
+   "likes": 90,
+   "first_line": "アメリカのドッグフードの成分表、これから書き方が変わる。",
+   "caption_head": "アメリカのドッグフードの成分表、これから書き方が変わる。\n日本のフードのほとんどは、アメリカの『AAFCO』っていう栄養の基準をもとに、総合栄養食が作られてる。そのAAFCOの表示のルールが変わって、今ある『粗繊維』の行がなくなる。かわりに書くことになるのが、",
+   "media_type": "TEXT_ONLY",
+   "has_media": false,
+   "url": "https://www.threads.com/@ruru_koinu/post/DfJ1qu_G22m"
+  },
+  {
+   "date": "2026-10-31 02:30:17",
+   "dt": "2026-10-31T02:30:17",
+   "likes": 77,
+   "first_line": "『総炭水化物』と『総食物繊維』。",
+   "caption_head": "『総炭水化物』と『総食物繊維』。\n炭水化物は、糖質と食物繊維を合わせたもの。だから総炭水化物から総食物繊維を引くだけで、糖質が出せるようになる。今の引き算より、ずっとシンプル。アメリカでの切り替えは2030年までに終わる予定。成分表に『総炭水化物』の文字を見つけたら、総食物繊維を引くだけで糖質が分かるよ。炭水化物・糖質",
+   "media_type": "TEXT_ONLY",
+   "has_media": false,
+   "url": "https://www.threads.com/@ruru_koinu/post/DfJ1r-wG8wO"
+  },
+  {
+   "date": "2026-10-17 00:18:23",
+   "dt": "2026-10-17T00:18:23",
+   "likes": 4,
+   "first_line": "ワンちゃんの飼い主さん集合！",
+   "caption_head": "ワンちゃんの飼い主さん集合！\n・子犬〜成犬のしつけ方\n・ドッグフード選びのポイント\n・役立つ便利グッズ紹介\nさらに・・・\n参加者限定のプレゼントやお役立ち情報など。ワンちゃんを健康に育てたい飼い主さんは全員参加してね！詳細は、、、",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@ruru_koinu/post/Deljdg5G1eM"
+  }
+ ],
+ "first_returned_post": {
+  "date": "2026-10-17 00:18:23",
+  "dt": "2026-10-17T00:18:23",
+  "likes": 4,
+  "first_line": "ワンちゃんの飼い主さん集合！",
+  "caption_head": "ワンちゃんの飼い主さん集合！\n・子犬〜成犬のしつけ方\n・ドッグフード選びのポイント\n・役立つ便利グッズ紹介\nさらに・・・\n参加者限定のプレゼントやお役立ち情報など。ワンちゃんを健康に育てたい飼い主さんは全員参加してね！詳細は、、、",
+  "media_type": "IMAGE",
+  "has_media": true,
+  "url": "https://www.threads.com/@ruru_koinu/post/Deljdg5G1eM"
+ },
+ "replies_sample_size": 8,
+ "replies_sample": [
+  {
+   "date": "2026-04-04 02:17:00",
+   "to": "minoru820.official",
+   "text_head": "k9ってどうなんでしょうか？"
+  },
+  {
+   "date": "2026-04-04 03:33:58",
+   "to": "ruru_koinu",
+   "text_head": "原材料重視で予算も許せるなら！でも、コスパ重視、衛生管理をラクにしたい、持病があるなら、もっと無難な総合栄養食も候補に入れたほうがいい(個犬の感想)です！"
+  },
+  {
+   "date": "2026-03-21 10:08:06",
+   "to": "iammikarin",
+   "text_head": "5がどうしても無理😭"
+  },
+  {
+   "date": "2026-03-21 11:19:39",
+   "to": "ruru_koinu",
+   "text_head": "固定投稿をチェックしてくださいねー！"
+  },
+  {
+   "date": "2026-03-21 07:28:08",
+   "to": "mi26160306",
+   "text_head": "2.3が出来ない💦"
+  }
+ ],
+ "replies_error": null,
+ "has_next_page_threads": true,
+ "next_cursor": "AQHT3IuDeKEThp4DXFGJLAeDJauUzLb0auR5uKUeSn3-BwwL7nk88rbJIXL1SohileTstugQJRSaJDJpNwQfj4h_xw"
+}

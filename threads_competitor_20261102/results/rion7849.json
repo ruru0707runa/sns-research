@@ -1,0 +1,71 @@
+{
+ "username": "rion7849",
+ "user_id": "17841463224300493",
+ "profile_url": "https://www.threads.com/@rion7849",
+ "name": "しばいぬ  ふわ",
+ "bio": "8歳の女の子です🥺\n#ふわ農園\nの畑を守ってます😤\n旬の野菜、果物、お米を通販で販売中🤗",
+ "follower_count_profile": 4379,
+ "follower_count_post": 4449,
+ "following_count": 0,
+ "post_count_total": 1975,
+ "sample_size": 4,
+ "sample_newest": "2026-11-02 01:20:46",
+ "sample_oldest": "2026-11-01 01:28:03",
+ "posts_last_24h": 1,
+ "posts_last_7d_in_sample": 4,
+ "per_day_recent": {
+  "2026-11-02": 1,
+  "2026-11-01": 3
+ },
+ "avg_likes_newest10": 7.5,
+ "avg_likes_oldest10_in_sample": 7.5,
+ "max_likes_in_sample": 11,
+ "posts_over_100_likes_in_sample": 0,
+ "top3": [
+  {
+   "date": "2026-11-02 01:20:46",
+   "dt": "2026-11-02T01:20:46",
+   "likes": 11,
+   "first_line": "ツイッターってなんやねんって今まで思ってて、知らん間に名前がエックスになってて。。。",
+   "caption_head": "ツイッターってなんやねんって今まで思ってて、知らん間に名前がエックスになってて。。。\nいや、インスタやFacebook、スレッズとは違った\nその場のふわちゃん登場や、お得情報をひたすら呟いてやろうかと思ってます😆\nよかったらよろしくでーす🫡ストーリーにリンク貼ってるんで飛べまーす😍\nhttps://x.com/huwa",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@rion7849/post/DfO-MbQFPga"
+  },
+  {
+   "date": "2026-11-01 01:28:03",
+   "dt": "2026-11-01T01:28:03",
+   "likes": 9,
+   "first_line": "いや、仮装してるわけじゃないけど普通に可愛くねーですか？😆😆😆",
+   "caption_head": "いや、仮装してるわけじゃないけど普通に可愛くねーですか？😆😆😆\nハロウィンって仮装する日？未だに知らないんだけど\n駅前とか別に仮装してないのにめちゃくちゃ人混みになってるけど出店がでてるわけでもなく何が目的なんだ。。。？\nおー時代についていけてない😭😭\n#柴犬\n#ふわ農園",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@rion7849/post/DfMTXZVFM6A"
+  },
+  {
+   "date": "2026-11-01 19:56:00",
+   "dt": "2026-11-01T19:56:00",
+   "likes": 5,
+   "first_line": "なんと毎年大人気の三ヶ日みかんが登場だーーー！",
+   "caption_head": "なんと毎年大人気の三ヶ日みかんが登場だーーー！\n11月2日のおまけは全ての商品対象なので\nぶどうでもみかんでもりんごでもおつけします🙇‍♂️\nご注文はふわ農園インスタトップページに貼ってあるリットリンクからBASEショップ、楽天ショップにてご注文お願いします🙇‍♂️\n#柴犬\n#ふわ農園",
+   "media_type": "CAROUSEL",
+   "has_media": true,
+   "url": "https://www.threads.com/@rion7849/post/DfOZB7ED-CP"
+  }
+ ],
+ "first_returned_post": {
+  "date": "2026-11-02 01:20:46",
+  "dt": "2026-11-02T01:20:46",
+  "likes": 11,
+  "first_line": "ツイッターってなんやねんって今まで思ってて、知らん間に名前がエックスになってて。。。",
+  "caption_head": "ツイッターってなんやねんって今まで思ってて、知らん間に名前がエックスになってて。。。\nいや、インスタやFacebook、スレッズとは違った\nその場のふわちゃん登場や、お得情報をひたすら呟いてやろうかと思ってます😆\nよかったらよろしくでーす🫡ストーリーにリンク貼ってるんで飛べまーす😍\nhttps://x.com/huwa",
+  "media_type": "IMAGE",
+  "has_media": true,
+  "url": "https://www.threads.com/@rion7849/post/DfO-MbQFPga"
+ },
+ "replies_sample_size": 0,
+ "replies_sample": [],
+ "replies_error": null,
+ "has_next_page_threads": true,
+ "next_cursor": "AQHTBebsERv_sbR1p79d9vrcktf5eOVG9f6rZtj8-BuNwk4P9fCHK1d7UPe5NkiwEqX9QwwKrbLAppc1XIdojalhrg"
+}

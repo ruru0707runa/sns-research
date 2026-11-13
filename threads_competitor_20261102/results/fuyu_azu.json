@@ -1,0 +1,100 @@
+{
+ "username": "fuyu.azu.anzu.and.uzura",
+ "user_id": "17841469629594339",
+ "profile_url": "https://www.threads.com/@fuyu.azu.anzu.and.uzura",
+ "name": "黒柴小豆と白柴安豆と赤柴うずらずはタヌキ",
+ "bio": "柴犬3色と千葉県で暮らしてます⚫⚪🌈🟤💛",
+ "follower_count_profile": 7329,
+ "follower_count_post": 9436,
+ "following_count": 39,
+ "post_count_total": 1045,
+ "sample_size": 5,
+ "sample_newest": "2026-10-29 02:12:24",
+ "sample_oldest": "2025-11-19 21:10:48",
+ "posts_last_24h": 0,
+ "posts_last_7d_in_sample": 2,
+ "per_day_recent": {
+  "2026-10-29": 1,
+  "2026-10-28": 1,
+  "2026-10-25": 1,
+  "2026-10-18": 1,
+  "2025-11-19": 1
+ },
+ "avg_likes_newest10": 14445.0,
+ "avg_likes_oldest10_in_sample": 14445.0,
+ "max_likes_in_sample": 68614,
+ "posts_over_100_likes_in_sample": 4,
+ "top3": [
+  {
+   "date": "2025-11-19 21:10:48",
+   "dt": "2025-11-19T21:10:48",
+   "likes": 68614,
+   "first_line": "自分の色は避けがち😵‍💫",
+   "caption_head": "自分の色は避けがち😵‍💫",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@fuyu.azu.anzu.and.uzura/post/DRRBwM7k1cI"
+  },
+  {
+   "date": "2026-10-29 02:12:24",
+   "dt": "2026-10-29T02:12:24",
+   "likes": 2332,
+   "first_line": "飼い主が言うのもなんですが、3色揃って同じ方向に丸まってるのはレアです！！",
+   "caption_head": "飼い主が言うのもなんですが、3色揃って同じ方向に丸まってるのはレアです！！\nこの投稿にいいねとリポストした方には多大なる幸せがやってきます🐾",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@fuyu.azu.anzu.and.uzura/post/DfEqDxuE39n"
+  },
+  {
+   "date": "2026-10-25 07:29:16",
+   "dt": "2026-10-25T07:29:16",
+   "likes": 1139,
+   "first_line": "全部ぬいぐるみなので騙されないでくださいね",
+   "caption_head": "全部ぬいぐるみなので騙されないでくださいね",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@fuyu.azu.anzu.and.uzura/post/De67JKeE5Gt"
+  }
+ ],
+ "first_returned_post": {
+  "date": "2025-11-19 21:10:48",
+  "dt": "2025-11-19T21:10:48",
+  "likes": 68614,
+  "first_line": "自分の色は避けがち😵‍💫",
+  "caption_head": "自分の色は避けがち😵‍💫",
+  "media_type": "IMAGE",
+  "has_media": true,
+  "url": "https://www.threads.com/@fuyu.azu.anzu.and.uzura/post/DRRBwM7k1cI"
+ },
+ "replies_sample_size": 8,
+ "replies_sample": [
+  {
+   "date": "2026-10-30 02:15:02",
+   "to": "deco.co9",
+   "text_head": "旺旺は私たち以上に悔しかったはず。\n\nお願いです。\n\n諦めないで。\n\n忘れないで。\n\nひとりでも多くの方にお願いしたいです。\n\n旺旺の声になって😢"
+  },
+  {
+   "date": "2026-10-30 02:48:57",
+   "to": "fuyu.azu.anzu.and.uzura",
+   "text_head": "この絵だけでも心臓がギュッと痛くなってしまいます。\n旺旺、毎日想ってるからね。"
+  },
+  {
+   "date": "2026-10-26 05:39:14",
+   "to": "ja.pan.cake",
+   "text_head": "ミツバッチーのこのちょっとどんくさくてアホなとこ可愛いよね🐝"
+  },
+  {
+   "date": "2026-10-26 22:37:51",
+   "to": "fuyu.azu.anzu.and.uzura",
+   "text_head": "こういうの見るとスズメバチは本気で滅びてほしい。"
+  },
+  {
+   "date": "2026-10-19 06:33:21",
+   "to": "pomemilky7",
+   "text_head": "亀井たくま議員の𝗫から⁡⁡\n⁡拡散希望してるから こちらに載せるね\n⁡\n⁡⁡千葉豪雨災害⁡\n⁡支援活動中にとても悲しくてつらい話を伺いました\n浸水被災宅でお庭で⁡\n⁡鎖に繋がれていたワンちゃんが⁡\n⁡"
+  }
+ ],
+ "replies_error": null,
+ "has_next_page_threads": true,
+ "next_cursor": "AQHTekoNPN4h4tXYzlLqRKobIy9_4A8SkOF8X-9TO7SIgNDq5fNUDFTSBQQ8ZHVR1FDvca6Rr9BwPQX5ITsjvsR7Mw"
+}

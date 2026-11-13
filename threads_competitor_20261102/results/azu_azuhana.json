@@ -1,0 +1,98 @@
+{
+ "username": "azu.azuhana",
+ "user_id": "17841464588265140",
+ "profile_url": "https://www.threads.com/@azu.azuhana",
+ "name": "黒柴のあずき（あずはなのパイセン）",
+ "bio": "\\前世は人間😇/\n黒柴犬🐕11歳女の子\n繊細で時に凶暴😌\n大の散歩嫌いです！\n胡麻柴 @shibainu_azuhana 花と同居中🐻",
+ "follower_count_profile": 9928,
+ "follower_count_post": 10076,
+ "following_count": 18,
+ "post_count_total": 185,
+ "sample_size": 5,
+ "sample_newest": "2026-10-18 15:16:56",
+ "sample_oldest": "2026-08-06 00:52:57",
+ "posts_last_24h": 0,
+ "posts_last_7d_in_sample": 0,
+ "per_day_recent": {
+  "2026-10-18": 1,
+  "2026-09-05": 2,
+  "2026-08-06": 2
+ },
+ "avg_likes_newest10": 108.0,
+ "avg_likes_oldest10_in_sample": 108.0,
+ "max_likes_in_sample": 202,
+ "posts_over_100_likes_in_sample": 3,
+ "top3": [
+  {
+   "date": "2026-08-06 00:52:57",
+   "dt": "2026-08-06T00:52:57",
+   "likes": 202,
+   "first_line": "何かを訴えておられる…。",
+   "caption_head": "何かを訴えておられる…。",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@azu.azuhana/post/DbsOMfPkzlP"
+  },
+  {
+   "date": "2026-09-05 01:52:26",
+   "dt": "2026-09-05T01:52:26",
+   "likes": 138,
+   "first_line": "色んなSNSに出没しすぎて（全部で11とか12アカウント🙃）収拾がつかなくなってきたので、ちょっと整理をしてます。　",
+   "caption_head": "色んなSNSに出没しすぎて（全部で11とか12アカウント🙃）収拾がつかなくなってきたので、ちょっと整理をしてます。　\n\nというわけで黒柴あずきのインスタアカウントは、以下メインアカウントにまとめることにしました。\n\n引き続きどうぞよろしくお願いします🙇↓",
+   "media_type": "IMAGE",
+   "has_media": true,
+   "url": "https://www.threads.com/@azu.azuhana/post/Dc5k2YNk4cd"
+  },
+  {
+   "date": "2026-10-18 15:16:56",
+   "dt": "2026-10-18T15:16:56",
+   "likes": 116,
+   "first_line": "",
+   "caption_head": "",
+   "media_type": "TEXT_ONLY",
+   "has_media": false,
+   "url": "https://www.threads.com/@azu.azuhana/post/DepvGRDE9KF"
+  }
+ ],
+ "first_returned_post": {
+  "date": "2026-10-18 15:16:56",
+  "dt": "2026-10-18T15:16:56",
+  "likes": 116,
+  "first_line": "",
+  "caption_head": "",
+  "media_type": "TEXT_ONLY",
+  "has_media": false,
+  "url": "https://www.threads.com/@azu.azuhana/post/DepvGRDE9KF"
+ },
+ "replies_sample_size": 8,
+ "replies_sample": [
+  {
+   "date": "2026-08-01 17:59:38",
+   "to": "solamama.1102",
+   "text_head": "犬の聴覚や嗅覚がヒトより優れてるって知らないんですかね。\n一度自分の耳元で通常の4倍以上のボリュームにしてガンガンに鳴らしてみれば良いのに。\n花火大会もだけど。、箱根や地方の温泉の硫黄まみれの匂いの強"
+  },
+  {
+   "date": "2026-08-01 18:05:55",
+   "to": "azu.azuhana",
+   "text_head": "犬の聴覚がヒトより優れてるって、ボリュームの話じゃないと思いますよ。"
+  },
+  {
+   "date": "2026-08-01 07:43:32",
+   "to": "bikini.mmmm",
+   "text_head": "犬の耳が良いってのはそういう事ではないんですけどね😅"
+  },
+  {
+   "date": "2026-08-01 15:54:11",
+   "to": "azu.azuhana",
+   "text_head": "ほんと、まじでそれですよね。"
+  },
+  {
+   "date": "2026-02-17 23:12:51",
+   "to": "lalulife_tokidokiwatashi",
+   "text_head": "富徳さん、昔働いていたショップ(駅ビル)の斜向かいにお店オープンされた時、写真撮ってもらった記憶あります🤭w"
+  }
+ ],
+ "replies_error": null,
+ "has_next_page_threads": true,
+ "next_cursor": "AQHTbsfeKwzgFAV0hdFd-vxk_SerYxifUd_40UMwg9y9MOgKpTa4OCrd8If9XkZyuUxhcUr2o3D-6fSva89IkqTz6g"
+}

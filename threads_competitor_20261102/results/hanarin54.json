@@ -1,0 +1,99 @@
+{
+ "username": "hanarin54",
+ "user_id": "17841463604084655",
+ "profile_url": "https://www.threads.com/@hanarin54",
+ "name": "白柴親子☆凛と奈々（華）",
+ "bio": "白柴親子♡\n凛（母）17歳2ヶ月🐶🌈\n奈々（娘）15歳 🐶💕\nお空の凛たんと地上の奈々たんの日常をつぶやきます\n*\nanicas専属タレント犬🐶🐶💕\nお仕事のご依頼はこちらへ➡︎ @anicas_jp",
+ "follower_count_profile": 16406,
+ "follower_count_post": 16841,
+ "following_count": 381,
+ "post_count_total": 4769,
+ "sample_size": 4,
+ "sample_newest": "2026-11-01 13:37:26",
+ "sample_oldest": "2026-10-27 14:34:46",
+ "posts_last_24h": 0,
+ "posts_last_7d_in_sample": 4,
+ "per_day_recent": {
+  "2026-11-01": 1,
+  "2026-10-29": 1,
+  "2026-10-28": 1,
+  "2026-10-27": 1
+ },
+ "avg_likes_newest10": 116.5,
+ "avg_likes_oldest10_in_sample": 116.5,
+ "max_likes_in_sample": 197,
+ "posts_over_100_likes_in_sample": 2,
+ "top3": [
+  {
+   "date": "2026-10-29 14:40:23",
+   "dt": "2026-10-29T14:40:23",
+   "likes": 197,
+   "first_line": "おはようございます🐶💕",
+   "caption_head": "おはようございます🐶💕",
+   "media_type": "CAROUSEL",
+   "has_media": true,
+   "url": "https://www.threads.com/@hanarin54/post/DfF_qLuE5Gb"
+  },
+  {
+   "date": "2026-11-01 13:37:26",
+   "dt": "2026-11-01T13:37:26",
+   "likes": 107,
+   "first_line": "おおはようございます🐶💕",
+   "caption_head": "おおはようございます🐶💕",
+   "media_type": "CAROUSEL",
+   "has_media": true,
+   "url": "https://www.threads.com/@hanarin54/post/DfNttSVkwep"
+  },
+  {
+   "date": "2026-10-27 14:34:46",
+   "dt": "2026-10-27T14:34:46",
+   "likes": 90,
+   "first_line": "おはようございます🐶💕",
+   "caption_head": "おはようございます🐶💕",
+   "media_type": "CAROUSEL",
+   "has_media": true,
+   "url": "https://www.threads.com/@hanarin54/post/DfA1bU0k8zj"
+  }
+ ],
+ "first_returned_post": {
+  "date": "2026-11-01 13:37:26",
+  "dt": "2026-11-01T13:37:26",
+  "likes": 107,
+  "first_line": "おおはようございます🐶💕",
+  "caption_head": "おおはようございます🐶💕",
+  "media_type": "CAROUSEL",
+  "has_media": true,
+  "url": "https://www.threads.com/@hanarin54/post/DfNttSVkwep"
+ },
+ "replies_sample_size": 8,
+ "replies_sample": [
+  {
+   "date": "2026-11-01 13:38:59",
+   "to": "dy339dy",
+   "text_head": "おはようございます😊今週もよろしくお願いします(  . .)\"▓"
+  },
+  {
+   "date": "2026-11-01 13:39:44",
+   "to": "hanarin54",
+   "text_head": "おはようございます🐶💕今週もよろしくお願いします💖"
+  },
+  {
+   "date": "2026-10-29 14:46:03",
+   "to": "kirakira_ruby7774",
+   "text_head": "おはよう、かわいいね！"
+  },
+  {
+   "date": "2026-11-01 13:39:16",
+   "to": "hanarin54",
+   "text_head": "おはようございます🐶💕ありがとうございます💖"
+  },
+  {
+   "date": "2026-10-29 14:45:15",
+   "to": "nanashibamofurin",
+   "text_head": "おはよん✋"
+  }
+ ],
+ "replies_error": null,
+ "has_next_page_threads": true,
+ "next_cursor": "AQHTYRtExnb3iCkVc-RBVhpf9pyUMldEhLiJX-LLQeRq0Iq6Kg6qnGpZ-_gM4NQveunY9fCeL_CHHio-_NDafJK36w"
+}
